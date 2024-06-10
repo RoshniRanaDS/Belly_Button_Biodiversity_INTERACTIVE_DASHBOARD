@@ -20,4 +20,23 @@ Following Screenshots are attached from my Work
    - Used "otu_labels" as the hovertext for the chart.  
 #
 ![image](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/a0f928c1-923e-4269-93c0-e83bab9ad8a2)
-
+#
+3. Created a bubble chart that displays each sample.   
+   - Used "otu_ids" for the x values.   
+   - Used "sample_values" for the y values.   
+   - Used "sample_values" for the marker size.   
+   - Used "otu_ids" for the marker colors.   
+   - Used "otu_labels" for the text values.   
+#
+![image](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/64273613-acd3-40e5-bc7f-6ad4ac5e3d8e)
+#
+4. Displayed the sample's metadata, i.e., an individual's demographic information.   
+   - Loopped through each key-value pair from the metadata JSON object and create a text string.   
+   - Appended an html tag with that text to the "#sample-metadata" panel.   
+#
+![image](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/9587d445-4632-45fc-abc4-c82e5e43ad22)
+#
+5. Updated all the plots when a new sample is selected.
+6. Deployed app to a free static page hosting service,
+   such as GitHub Pages. 
+  
