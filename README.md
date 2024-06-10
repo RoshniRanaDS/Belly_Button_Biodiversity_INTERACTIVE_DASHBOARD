@@ -10,7 +10,7 @@ Following Screenshots are attached from my Work
 #
 ![Screenshot 2024-06-10 193040](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/3ec1c02e-b07c-4dae-9d96-2a0e3934cbd9)
 #
-![Screenshot 2024-06-10 193428](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/fa659de5-c202-4dc7-9be4-ff242e685521)
+![image](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/0ba0e80f-3adc-407e-91e1-f06817f19b78)
 #
 # Instructions
 1. Used the D3 library to read in "samples.json" from the URL "https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json."  
