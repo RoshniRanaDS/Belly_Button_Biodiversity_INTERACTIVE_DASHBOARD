@@ -6,11 +6,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 in the study) were present in more than 70% of people, while the rest were relatively rare.  
 Following Screenshots are attached from my Work
 #
-![Screenshot 2024-06-10 192357](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/88db9861-db97-4feb-8fa2-7ae22aeaa8cc)
+![Dashboard_Screenshot_01](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/657d1aa4-a5a7-4fa5-89f9-133d3bba474a)
 #
 ![Screenshot 2024-06-10 193040](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/3ec1c02e-b07c-4dae-9d96-2a0e3934cbd9)
 #
-![image](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/0ba0e80f-3adc-407e-91e1-f06817f19b78)
+![Dasboard_Screenshot_03](https://github.com/RoshniRanaDS/belly-button-challenge/assets/161755928/43d936b1-b86d-45d5-92d7-cd271af75a59)
 #
 # Instructions
 1. Used the D3 library to read in "samples.json" from the URL "https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json."  
